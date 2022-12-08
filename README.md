@@ -6,3 +6,5 @@ NIM : 2109116101
 
 prodi: Sistem informasi C 2021
 
+Link database sekolah mysql
+https://drive.google.com/file/d/1TVigjeVmHTkB1NtOKFkMuMhWAKVYAzje/view?usp=sharing
