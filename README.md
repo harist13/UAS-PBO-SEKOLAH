@@ -14,9 +14,9 @@ https://drive.google.com/file/d/1TVigjeVmHTkB1NtOKFkMuMhWAKVYAzje/view?usp=shari
 1. Login admin
 
 
-   username : admin
+   username : harist
 
-   password : admin
+   password : harist
 
 
 2. login guru
