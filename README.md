@@ -11,24 +11,24 @@ Link database sekolah mysql
 https://drive.google.com/file/d/1TVigjeVmHTkB1NtOKFkMuMhWAKVYAzje/view?usp=sharing
 
 
-Login admin
+1. Login admin
 
 
-username : admin
+   username : admin
 
-password : admin
-
-
-login guru
-
-username : repan
-
-password : repan
+   password : admin
 
 
-login siswa
+2. login guru
 
-username : razak
+   username : repan
 
-password : razak
+   password : repan
+
+
+3. login siswa
+
+   username : razak
+
+   password : razak
 
